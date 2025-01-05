@@ -1,0 +1,47 @@
+[
+  
+  
+  {
+    "name": "Language Translator",
+    "desc": "Language Translator leverages HTML,CSS, & JavaScript , offering real-time translation, language selection, file upload, and download features.",
+    "image": "language",
+    "links": {
+      "view":"https://n-divyasree.github.io/language__translate/",
+      "code": "https://github.com/N-Divyasree/language__translate"
+    }
+  },
+  {
+    "name": "Spotify Clone",
+    "desc": " Featuring a responsive design, music player layout, and visually appealing elements for an enhanced user experience.",
+    "image": "spotify",
+    "links": {
+      "view": "https://n-divyasree.github.io/spotify_clone/",
+      "code": "https://github.com/N-Divyasree/spotify_clone"
+    }
+  },
+  
+  {
+    "name": "Airline Reservation",
+    "desc": "manages flight bookings, cancellations, and passenger details. It features a simple menu-driven interface, ensuring efficient and streamlined reservations",
+    "image": "airline",
+    
+    "links": {
+      "view": "https://github.com/N-Divyasree/AIRLINE-RESERVATION",
+      "code": "https://github.com/N-Divyasree/AIRLINE-RESERVATION"
+    }
+  },
+  {
+    "name": "Fake News Detection",
+    "desc": "built using Python, utilizes NLP and ML algorithms to classify news as real or fake, ensuring reliable and accurate information dissemination.",
+    "image": "fakenews",
+
+    "links": {
+      "view": "https://github.com/N-Divyasree/fakenews_detection",
+      "code": "https://github.com/N-Divyasree/fakenews_detection"
+    }
+  }
+  
+  
+  
+  
+]
